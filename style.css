@@ -98,3 +98,14 @@ justify-content: space-between;
 .about-info{
     text-align: center;
 }
+#i
+{
+    padding: 30px 150px;
+}
+.skills{
+    display: flex;
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
